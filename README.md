@@ -3,7 +3,7 @@
 ## Problem Statement
 Blossom Bank also known as BB PLC is a multinational financial services group, that offers retail and investment banking, pension management, asset management and payments services, headquartered in London,UK.
 
-Blossom Bank wants to build a Machine Learning model to predict online payment fraud. With this model they are expected to make less False Negatives with regards to detecting fraudulent transactions.
+Blossom Bank wants to build a Machine Learning model to predict online payment fraud. With this model they expect to make less False Negatives with regards to detecting fraudulent transactions.
 
 ## Project Objective
 Visualize the relationships of the columns within the dataset (EDA).
